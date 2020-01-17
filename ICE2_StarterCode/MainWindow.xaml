@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ICE2_StarterCode"
         mc:Ignorable="d"
-        Title="MainWindow" Height="455" Width="800">
-    <Grid VerticalAlignment="Top" HorizontalAlignment="Left" ShowGridLines="True" Width="800" Height="424" Margin="0,0,-4,0">
+        Title="MainWindow" Height="455" Width="800"
+        Background="LimeGreen">
+    <Grid VerticalAlignment="Top" HorizontalAlignment="Left" ShowGridLines="True" Width="800" Height="424" Margin="0,0,-4,0" >
         <Grid.ColumnDefinitions>
             <ColumnDefinition />
             <ColumnDefinition />
@@ -77,8 +78,8 @@
                 </StackPanel>
             </ComboBox.ToolTip>
         </ComboBox>
-        <ListBox x:Name="_1stCountries" Grid.Row="1">
-            <ListBoxItem Content="USA"/>
+        <ListBox x:Name="_1stCountries" Grid.Row="1" Background="Transparent">
+            <ListBoxItem Content="USA" />
             <ListBoxItem Content="Canada"/>
             <ListBoxItem Content="Mexico"/>
             <ListBox.ToolTip>
@@ -152,7 +153,7 @@
                 </StackPanel>
             </DatePicker.ToolTip>
         </DatePicker>
-        <RichTextBox x:Name="rchShakespeare" Grid.Row="2">
+        <RichTextBox x:Name="rchShakespeare" Grid.Row="2" Background="Transparent">
             <RichTextBox.ToolTip>
                 <StackPanel>
                     <TextBlock FontWeight="Bold" FontSize="14" Margin="0,0,0,5">RichTextBox</TextBlock>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Clayton\\Source\\Repos\\ccatanzarite\\ICE2_CDC_CAH\\ICE2_StarterCode\\ICE2_StarterCode.csproj": {}
+    "C:\\Users\\Clayton\\source\\repos\\ccatanzarite\\ICE2_CDC_CAH\\ICE2_StarterCode\\ICE2_StarterCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Clayton\\Source\\Repos\\ccatanzarite\\ICE2_CDC_CAH\\ICE2_StarterCode\\ICE2_StarterCode.csproj": {
+    "C:\\Users\\Clayton\\source\\repos\\ccatanzarite\\ICE2_CDC_CAH\\ICE2_StarterCode\\ICE2_StarterCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Clayton\\Source\\Repos\\ccatanzarite\\ICE2_CDC_CAH\\ICE2_StarterCode\\ICE2_StarterCode.csproj",
+        "projectUniqueName": "C:\\Users\\Clayton\\source\\repos\\ccatanzarite\\ICE2_CDC_CAH\\ICE2_StarterCode\\ICE2_StarterCode.csproj",
         "projectName": "ICE2_StarterCode",
-        "projectPath": "C:\\Users\\Clayton\\Source\\Repos\\ccatanzarite\\ICE2_CDC_CAH\\ICE2_StarterCode\\ICE2_StarterCode.csproj",
+        "projectPath": "C:\\Users\\Clayton\\source\\repos\\ccatanzarite\\ICE2_CDC_CAH\\ICE2_StarterCode\\ICE2_StarterCode.csproj",
         "packagesPath": "C:\\Users\\Clayton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Clayton\\Source\\Repos\\ccatanzarite\\ICE2_CDC_CAH\\ICE2_StarterCode\\obj\\",
+        "outputPath": "C:\\Users\\Clayton\\source\\repos\\ccatanzarite\\ICE2_CDC_CAH\\ICE2_StarterCode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
